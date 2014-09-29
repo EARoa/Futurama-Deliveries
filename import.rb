@@ -114,9 +114,3 @@ puts "Pluto had #{plutototal}"
 puts "Saturn had #{saturntotal}"
 
 puts "Jupiter had #{jupitertotal}"
-
-# BONUS 1
-# How much money did we make broken down by planet?
-# ie.. how much did we make shipping to Earth? Mars? Saturn? etc.
-
-# BONUS 2 - uses classes for each shipment; but not necessary
